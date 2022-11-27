@@ -3,6 +3,7 @@ package com.aed.finder.dto;
 import com.aed.finder.domain.Aed;
 import lombok.Data;
 
+
 @Data
 public class AedResponseDto {
     private String name;
